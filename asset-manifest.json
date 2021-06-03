@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/statewisecoviddata/static/css/main.08d5c6fc.chunk.css",
+    "main.js": "/statewisecoviddata/static/js/main.bb31da40.chunk.js",
+    "main.js.map": "/statewisecoviddata/static/js/main.bb31da40.chunk.js.map",
+    "runtime-main.js": "/statewisecoviddata/static/js/runtime-main.1488b247.js",
+    "runtime-main.js.map": "/statewisecoviddata/static/js/runtime-main.1488b247.js.map",
+    "static/js/2.b0bc5f77.chunk.js": "/statewisecoviddata/static/js/2.b0bc5f77.chunk.js",
+    "static/js/2.b0bc5f77.chunk.js.map": "/statewisecoviddata/static/js/2.b0bc5f77.chunk.js.map",
+    "index.html": "/statewisecoviddata/index.html",
+    "static/css/main.08d5c6fc.chunk.css.map": "/statewisecoviddata/static/css/main.08d5c6fc.chunk.css.map",
+    "static/js/2.b0bc5f77.chunk.js.LICENSE.txt": "/statewisecoviddata/static/js/2.b0bc5f77.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1488b247.js",
+    "static/js/2.b0bc5f77.chunk.js",
+    "static/css/main.08d5c6fc.chunk.css",
+    "static/js/main.bb31da40.chunk.js"
+  ]
+}
